@@ -1,0 +1,63 @@
+body{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.borderradius{
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    border: 5px solid rgb(255, 0, 0);
+    background-color: rgb(222, 217, 217);
+    border-radius: 20px;
+}
+.boxshadow{
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(193, 186, 186);
+    box-shadow: 4px 4px 8px red;
+}
+.hexa{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color:#8d23f6;
+}
+.hslt{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: hsl(116, 88%, 46%)
+}
+.rgb{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(3, 154, 185);
+}
+.rgba{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgba(119, 211, 89, 0.4);
+}
+.fondo{
+    width: 200px;
+    height: 311px;
+    margin: 0 auto;
+    background-image: url(img/monoku.jpg);
+    background-color: black;
+}
+.fondo2{
+    width: 2000px;
+    height: 1000px;
+    margin: 0 auto;
+    background-image: url(img/dangan.jpg);
+    background-attachment: fixed;
+    background-color: black;
+
+}
